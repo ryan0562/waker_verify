@@ -14,7 +14,7 @@
             <div class="verify-img-panel" :style="{width: setSize.imgWidth,
                                                    height: setSize.imgHeight,
                                                    background: 'url(' + imgUrl + imgName[imgRand]+')',
-                                                   'background-size' : setSize.imgWidth + ' '+ setSize.imgHeight}">
+                                                   'background-size' : '100% 100%'}">
                 <div class="verify-refresh" @click="refresh" v-show="showRefresh"><i class="iconfont icon-refresh"></i>
                 </div>
                 <div class="verify-gap"
