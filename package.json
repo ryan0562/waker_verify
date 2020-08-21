@@ -1,16 +1,16 @@
 {
-  "name": "vue2-verify",
-  "version": "1.1.5",
-  "keywords": ["vue", "verify", "verify code"],
+  "name": "waker_verify",
+  "version": "1.0.0",
+  "keywords": ["vue", "verify", "verify code", "waker", "waker_verify"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/trionfo1993/vue2-verify.git"
+    "url": "https://github.com/ryan0562/waker_verify.git"
   },
   "description": "Vue Verification code Project",
-  "author": "mizuka <trionfo1993@hotmail.com>",
+  "author": "waker <519254178@qq.com>",
   "license": "MIT",
   "bugs": {
-    "email": "trionfo1993@hotmail.com"
+    "email": "519254178@qq.com"
   },
   "main": "src/components/Verify.vue",
   "scripts": {
